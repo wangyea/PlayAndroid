@@ -1,2 +1,2 @@
-# PlayJava
-Let's play Java.
+# PlayAndroid
+Let's play Android.
